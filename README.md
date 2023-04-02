@@ -1,5 +1,3 @@
-# Title: Professional Title in Markdown Format
-
 ## Introduction
 
 Greetings! I am a seasoned software professional with expertise in software architecture. With my extensive experience and knowledge in software engineering, I have honed my skills in designing complex software systems with a focus on scalability, maintainability, and performance.
